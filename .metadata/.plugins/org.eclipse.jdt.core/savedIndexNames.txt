@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+C:\Users\truyendtt\Documents\GitHub\ReqresApiProject\.metadata\.plugins\org.eclipse.jdt.core
+3536395824.index
+3305446430.index
+1702242655.index
+968808344.index
+2495500842.index
+1353066008.index
+352075157.index
+1865797976.index
